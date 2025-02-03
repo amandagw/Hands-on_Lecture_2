@@ -1,4 +1,7 @@
 # Hands-on_Lecture_2
+Name: Amanda Wong
+CS 3560.02
+February 2, 2025
 ## Contents of Repository
 * PascalsTriangle.java
 * SpiralMatrix.java
@@ -11,5 +14,5 @@ The program will generate Pascal's Triangle with given int numRows number of row
 Given a matrix of size m x n, the program will return the order of elements in the matrix in spiral order. Spiral order traverses the matrix right, down, left, and then up repeatedly until all elements have been visited.  
 
 ### test_cases.java
- Contains main method wit multiple test cases to display correctness of code for both PascalsTriangle.java and SpiralMatrix.java.
+ Contains main method with multiple test cases to display correctness of code for both PascalsTriangle.java and SpiralMatrix.java.
 
