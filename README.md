@@ -1,6 +1,8 @@
 # Hands-on_Lecture_2
-Name: Amanda Wong
-CS 3560.02
+Name: Amanda Wong 
+
+CS 3560.02 
+
 February 2, 2025
 ## Contents of Repository
 * PascalsTriangle.java
